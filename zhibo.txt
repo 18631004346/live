@@ -1,0 +1,309 @@
+央视频道,#genre#
+CCTV-1,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000001/index.m3u8?#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000001/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000001/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000001$订阅源-IPv6
+CCTV-2,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000502/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000502/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000502$订阅源-IPv6
+CCTV-3,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000003/index.m3u8?#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000003/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000003/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000003$订阅源-IPv6
+CCTV-4,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000503$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000503/index.m3u8?$订阅源-IPv6
+CCTV-5,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000005/index.m3u8?
+CCTV-5+,http://[2409:8087:1a0a:df::4032]:80/wh7f454c46tw1559678945_883095252/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8?icpid=88888888&RTS=1713968388&from=4&hms_devid=1143&online=1713968388&vqe=3$订阅源-IPv6#http://[2409:8087:1a0a:df::4032]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$订阅源-IPv6
+CCTV-6,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000006/index.m3u8?#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000006/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000006/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000006$订阅源-IPv6#http://[2409:8087:1a0a:df::4038]:80/wh7f454c46tw1592771597_580809367/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$订阅源-IPv6#http://58.17.116.69:9904/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CCTV-7,http://[2409:8087:1a0a:df::400f]:80/wh7f454c46tw1639845910_217588519/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$订阅源-IPv6
+CCTV-8,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000008/index.m3u8?
+CCTV-9,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000505/index.m3u8?$订阅源-IPv6
+CCTV-10,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000506$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000506/index.m3u8?$订阅源-IPv6#http://[2409:8087:1a0a:df::4035]:80/wh7f454c46tw1741373816_102984390/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$订阅源-IPv6
+CCTV-11,http://[2409:8087:1a0a:df::4016]:80/wh7f454c46tw1773849430_946809046/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8?icpid=88888888&RTS=1713968602&from=4&hms_devid=992&online=1713968602&vqe=3$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000508/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000508$订阅源-IPv6
+CCTV-12,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000509$订阅源-IPv6
+CCTV-13,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000510/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000510$订阅源-IPv6
+CCTV-14,http://[2409:8087:1a0a:df::404d]:80/wh7f454c46tw1988565230_-380430064/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8CCTV-16%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B?icpid=88888888&RTS=1713968817&from=4&hms_devid=1208&online=1713968817&vqe=3$订阅源-IPv6#http://[2409:8087:1a0a:df::404d]:80/wh7f454c46tw1988565230_-380430064/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8CCTV16%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B?icpid=88888888&RTS=1713968817&from=4&hms_devid=1208&online=1713968817&vqe=3$订阅源-IPv6
+CCTV-15,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000512/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000512$订阅源-IPv6
+CCTV-16,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000016/index.m3u8?#http://111.160.17.2:59901/tsfile/live/0001_17.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-17,http://[2409:8087:1a0a:df::4030]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$订阅源-IPv6/PLTV/88888888/224/3221225765/index.m3u8$订阅源-IPv6
+卫视频道,#genre#
+四川卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000025/index.m3u8?
+河南卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000027/index.m3u8?
+海南卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000037/index.m3u8?
+贵州卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000036/index.m3u8?#http://dassby.qqff.top:99/live/贵州卫视高清/index.m3u8
+吉林卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000030/index.m3u8?
+甘肃卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000023/index.m3u8?
+云南卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000035/index.m3u8?
+广东卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000520/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000520$订阅源-IPv6
+浙江卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000531/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000531$订阅源-IPv6
+北京卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000516$订阅源-IPv6
+湖北卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000522/index.m3u8?$订阅源-IPv6
+黑龙江卫视,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw3745569663_1783156534/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000521/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000521$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000521/index.m3u8?$订阅源-IPv6
+安徽卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000514/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000514$订阅源-IPv6#http://223.241.247.214:85//tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+重庆卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000517/index.m3u8?$订阅源-IPv6
+东南卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000519/index.m3u8?$订阅源-IPv6#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226341/index.m3u8$订阅源-IPv6
+甘肃卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000023/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000023/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000023$订阅源-IPv6
+广西卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000034/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000034/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000034$订阅源-IPv6
+贵州卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000036/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000036$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000036/index.m3u8?$订阅源-IPv6
+海南卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000037/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000037$订阅源-IPv6#http://[2409:8087:1a0a:df::4035]:80/wh7f454c46tw2956885686_2095434499/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8?icpid=88888888&RTS=1713969785&from=4&hms_devid=1209&online=1713969785&vqe=3$订阅源-IPv6
+河北卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000057/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000057/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000057$订阅源-IPv6
+河南卫视,http://[2409:8087:1a0a:df::402b]:80/wh7f454c46tw3580436585_-1356766422/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8?icpid=88888888&RTS=1713970409&from=4&hms_devid=989&online=1713970409&vqe=3$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000027/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000027$订阅源-IPv6
+吉林卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000030$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000030/index.m3u8?$订阅源-IPv6
+江苏卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000524/index.m3u8?$订阅源-IPv6
+江西卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000525/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000525$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000525/index.m3u8?$订阅源-IPv6
+辽宁卫视,http://[2409:8087:1a0a:df::404a]:80/wh7f454c46tw3780404957_-1199208330/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8?icpid=88888888&RTS=1713970609&from=4&hms_devid=1212&online=1713970609&vqe=3$订阅源-IPv6#http://[2409:8087:1a0a:df::404a]:80/wh7f454c46tw3780404957_-1199208330/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8$订阅源-IPv6
+山东卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000527/index.m3u8?$订阅源-IPv6
+四川卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000025/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000025$订阅源-IPv6
+深圳卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000529$订阅源-IPv6
+天津卫视,http://[2409:8087:1a0a:df::402e]:80/wh7f454c46tw2817558359_702405668/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8$订阅源-IPv6
+云南卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000035$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000035/index.m3u8?$订阅源-IPv6
+内蒙古综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
+深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+天津卫视,http://dassby.qqff.top:99/live/天津卫视高清/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+安徽卫视,http://dassby.qqff.top:99/live/安徽卫视高清/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+辽宁卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+黑龙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+镇江新闻,rtmp://zjtv-wshls.homecdn.com/live/2aa50#rtmp://zjtv-wshls.homecdn.com/live/2aa16
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
+东北热剧,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000092/index.m3u8?
+炫舞未来,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000098/index.m3u8?
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
+内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
+内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
+蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
+蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
+呼市新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
+包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
+鄂尔多斯新闻,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
+巴彦淖尔新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
+赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
+乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
+广州南国都市频道,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
+泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+涟水电视台综合频道,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
+高邮一套新闻综合频道,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+镇江新闻综合频道,http://cm-wshls.homecdn.com/live/2aa50.m3u8
+镇江二套社会民生频道,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+安徽影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+安徽经济生活频道,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+安徽综艺体育频道,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+浙江钱江都市频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江教育科技频道,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江电视台影视娱乐频道,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+浙江6频道民生休闲频道,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江新闻频道,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江电视台少儿频道,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江国际频道,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+余杭新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+余杭未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+余姚新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+苍南新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+永嘉新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+新昌新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+新昌生活频道,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+上虞新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+上虞文化影视频道,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+上虞新商都频道,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+衢江新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+遂昌新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+松阳新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+庆元新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+龙泉新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+临沂新闻综合频道,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
+临沂公共频道,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+临沂农科频道,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
+崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+文山新闻综合频道,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+文山公共频道,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+广安新闻综合频道,http://live1.gatv.com.cn:85/live/XWZH.m3u8
+广安公共频道,http://live1.gatv.com.cn:85/live/GGPD.m3u8
+淇县电视台,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
+焦作新闻综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+垫江综合频道,http://125.62.24.185:80/1.m3u8
+贺州电视台综合频道,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+鄂托克旗电视台,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源#http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源
+浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?$订阅源#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源#http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8$订阅源#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
+浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源#https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?$订阅源
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?$订阅源#https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源#http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8$订阅源
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8$订阅源#https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源#https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?$订阅源#http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源#http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8$订阅源
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$订阅源#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源#https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?$订阅源#https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源#http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
+浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
+浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8$订阅源
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed$订阅源
+龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed$订阅源
+遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed$订阅源#http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8$订阅源
+衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed$订阅源
+苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed$订阅源#http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8$订阅源
+永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed$订阅源#http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8$订阅源
+松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed$订阅源
+新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8$订阅源
+新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8$订阅源
+庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?$订阅源#http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed$订阅源#http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8$订阅源
+余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed$订阅源
+余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed$订阅源
+余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed$订阅源#http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?$订阅源#http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8$订阅源
+余姚新闻综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8$订阅源
+中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源#https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?$订阅源#http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
+上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed$订阅源
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed$订阅源#http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed?$订阅源
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8zzhed$订阅源#http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed$订阅源#http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8$订阅源
+上海纪实,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000528/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000528$订阅源-IPv6#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8$订阅源-IPv6
+南京十八,https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8$订阅源
+湖南都市,http://175.10.230.91:8081/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+湖南娱乐,http://175.10.230.91:8081/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd$订阅源
+长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd$订阅源
+松新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8?zguizd$订阅源
+伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd$订阅源
+兵团八师石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd$订阅源
+兵团八师石河子经济生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd$订阅源
+兵团八师石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd$订阅源
+怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd$订阅源
+汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd$订阅源
+潞城新闻综合,http://59.48.42.6:62204/lucheng.m3u8?zshanxd$订阅源
+阳曲综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd$订阅源
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd$订阅源
+安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd$订阅源
+黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd$订阅源
+滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8?zanhd$订阅源
+滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8?zanhd$订阅源
+吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd$订阅源
+吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd$订阅源
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd$订阅源
+西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$订阅源
+门源综合,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd$订阅源
+民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd$订阅源
+鹤岗新闻综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8$订阅源-IPv6#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8$订阅源
+齐齐哈尔新闻综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8$订阅源-IPv6#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8$订阅源
+齐齐哈尔经济法制,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8$订阅源
+
+电影体育动画,#genre#
+五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+超级体育,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000020/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000020$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000020/index.m3u8?$订阅源-IPv6
+精品体育,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000102/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000102/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000102$订阅源-IPv6#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$订阅源-IPv6#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$订阅源-IPv6#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8$订阅源#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$订阅源
+睛彩篮球,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000118/index.m3u8?$订阅源-IPv6
+CHC动作电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源-IPv6#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源-IPv6
+NewTV惊悚悬疑,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000113/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000113$订阅源-IPv6#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$订阅源
+NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源
+黑莓电影,http://[2409:8087:74d1:22::4]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000095$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000095/index.m3u8?$订阅源-IPv6#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225743/2.m3u8$订阅源-IPv6#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$订阅源-IPv6#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225662/2.m3u8$订阅源-IPv6
+黑莓动画,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000096/index.m3u8?$订阅源-IPv6#http://[2409:8087:74d6:22::7]:6410/270000001128/9900000096/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000096$订阅源-IPv6#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$订阅源-IPv6#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$订阅源#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/1.m3u8$订阅源#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$订阅源-IPv6
+嗒啵赛事,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000097/index.m3u8?
+黑莓动画,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000096/index.m3u8?
+黑莓电影,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000095/index.m3u8?
+睛彩篮球,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000118/index.m3u8?
+睛彩青少,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000120/index.m3u8?
+超级电影,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000021/index.m3u8?
+超级电视剧,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000022/index.m3u8?
+中国功夫,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000101/index.m3u8?
+军旅剧场,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000107/index.m3u8?
+惊悚悬疑,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000113/index.m3u8?
+潮妈辣婆,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000099/index.m3u8?
+家庭剧场,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000108/index.m3u8?
+精品大剧,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000100/index.m3u8?
+军事评论,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000110/index.m3u8?
+明星大片(动漫),http://[2409:8087:74d6:22::7]:6410/270000001128/9900000116/index.m3u8?
+欢乐剧场,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000091/index.m3u8?
+精品萌宠,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000122/index.m3u8?
+超级综艺,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000019/index.m3u8?
+金牌综艺,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000112/index.m3u8?
+直播电影,#genre#
+斗鱼电影A,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+斗鱼电影B,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+历年春晚,#genre#
+春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+春晚1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+春晚1986,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+春晚1987,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
+春晚1988,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+春晚1989,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+春晚1990,https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
+春晚1991,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+春晚1994,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+春晚1995,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+春晚1996,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+春晚1999,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+春晚2000,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+春晚2001,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+春晚2002,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+春晚2003,https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+春晚2004,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+春晚2005,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+春晚2006,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+春晚2007,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+春晚2008,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+春晚2009,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+春晚2010,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+春晚2011,https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+春晚2012,https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
+春晚2013,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+春晚2014,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+春晚2015,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+春晚2016,https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
+春晚2017,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+春晚2018,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+春晚2019,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+春晚2020,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+春晚2021,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+春晚2022,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+网络春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+河南春晚2024,https://v10.dious.cc/20240208/AN4hlNqo/index.m3u8
+安徽春晚2024,https://v10.dious.cc/20240210/UnLrYixW/index.m3u8
+西游记,#genre#
+第01集 猴王初问世,https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/00/63/1054246300/1054246300-1-208.mp4?e=ig8euxZM2rNcNbh1hbdVhwdlhzRghwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558227&gen=playurlv2&os=cosbv&oi=999925353&trid=a9c5625fb6e64ca296b41d2fb1c63057T&mid=1714833199&platform=html5&og=cos&upsig=534b60420b490683f895689a05a68228&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=312638&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第02集 官封弼马温,https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/57/57/826405757/826405757-1-208.mp4?e=ig8euxZM2rNcNbhB7zdVhwdlhzUahwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558721&gen=playurlv2&os=cosbv&oi=999925353&trid=17b1a0b956944970bb25c2d2f909d173T&mid=1714833199&platform=html5&og=cos&upsig=ba1e78a6652c77a2365056a7866f40cf&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=357348&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第03集 大圣闹天宫,https://cn-zjhz-cm-01-08.bilivideo.com/upgcxcode/39/80/1057008039/1057008039-1-208.mp4?e=ig8euxZM2rNcNbhzhzdVhwdlhzhzhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558228&gen=playurlv2&os=bcache&oi=999925353&trid=00000931aa5dc37d4a93be8cd8087edb95b7T&mid=1714833199&platform=html5&og=cos&upsig=add12d7bc1c92b11a05fc06ee07e0260&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=5163&bvc=vod&nettype=0&bw=333611&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第04集 困囚五行山,https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/21/82/1056108221/1056108221-1-208.mp4?e=ig8euxZM2rNcNbhghzdVhwdlhzNzhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558228&gen=playurlv2&os=cosbv&oi=999925353&trid=e7a4f60727ba45779befa21fb92e8be7T&mid=1714833199&platform=html5&og=cos&upsig=626934716c98e7bc9cafcf20b7f4e839&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=323433&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第05集 猴王保唐僧,https://cn-lnsy-cm-01-02.bilivideo.com/upgcxcode/94/95/1056109594/1056109594-1-208.mp4?e=ig8euxZM2rNcNbhghWdVhwdlhzN1hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558229&gen=playurlv2&os=bcache&oi=999925353&trid=00001ee8feb283f24d528b4934994acaa46eT&mid=1714833199&platform=html5&og=cos&upsig=501995e87bcaf85f0047841cdf762bf4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=3243&bvc=vod&nettype=0&bw=321541&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第06集 祸起观音院,https://cn-gdjm-cm-01-08.bilivideo.com/upgcxcode/56/61/1056146156/1056146156-1-208.mp4?e=ig8euxZM2rNcNbNjnwdVhwdlhbT3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558230&gen=playurlv2&os=bcache&oi=999925353&trid=0000ea19db6a7f0d4113875ec1d626713bbbT&mid=1714833199&platform=html5&og=hw&upsig=28dc4d1a5ea5cbc12670b75d2a578eaf&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=88508&bvc=vod&nettype=0&bw=268792&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第07集 计收猪八戒,https://cn-hnzz-cm-01-05.bilivideo.com/upgcxcode/36/65/1057796536/1057796536-1-208.mp4?e=ig8euxZM2rNcNbh1hbdVhwdlhzRghwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558230&gen=playurlv2&os=bcache&oi=999925353&trid=0000d6c7a1d1caa54e8f93e16a3424f2b294T&mid=1714833199&platform=html5&og=hw&upsig=bc803212d4d93365b52257a4e9409b41&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=5359&bvc=vod&nettype=0&bw=312392&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第08集 坎途逢三难,https://upos-sz-mirror08c.bilivideo.com/upgcxcode/88/74/435567488/435567488-1-208.mp4?e=ig8euxZM2rNcNbNj7wdVhwdlhbTMhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558231&gen=playurlv2&os=08cbv&oi=999925353&trid=59b2f00d8149485e947c0a701cd09e71T&mid=1714833199&platform=html5&og=hw&upsig=109e422312ab8a17f8e893daad788409&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=264273&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第09集 偷吃人参果,https://cn-gdjm-cm-01-03.bilivideo.com/upgcxcode/07/32/1058133207/1058133207-1-208.mp4?e=ig8euxZM2rNcNbN3hwdVhwdlhb4VhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558232&gen=playurlv2&os=bcache&oi=999925353&trid=0000839e160424984e80b1219876ef097cf4T&mid=1714833199&platform=html5&og=hw&upsig=f668d838b5eb4047cc5352630b3caef3&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=88503&bvc=vod&nettype=0&bw=280353&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第10集 三打白骨精,https://cn-sdjn-cm-02-11.bilivideo.com/upgcxcode/30/85/1057828530/1057828530-1-208.mp4?e=ig8euxZM2rNcNbhzhwdVhwdlhzhVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558233&gen=playurlv2&os=bcache&oi=999925353&trid=0000e52434aec56847929e5234330ea78142T&mid=1714833199&platform=html5&og=hw&upsig=3facd958922dc173f6c9f6d7a8b06ded&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=4052&bvc=vod&nettype=0&bw=330999&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第11集 智激美猴王,https://upos-sz-mirror08c.bilivideo.com/upgcxcode/36/42/498714236/498714236-1-208.mp4?e=ig8euxZM2rNcNbhjnWdVhwdlhzTHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558894&gen=playurlv2&os=08cbv&oi=999925353&trid=8f361132f36f45d88b79386bcd196595T&mid=1714833199&platform=html5&og=hw&upsig=3f8608dce1c8a73206953e2fb8699da8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=369233&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第12集 夺宝莲花洞,https://cn-gddg-cm-01-14.bilivideo.com/upgcxcode/16/32/1062713216/1062713216-1-208.mp4?e=ig8euxZM2rNcNbhMhzdVhwdlhzKzhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558233&gen=playurlv2&os=bcache&oi=999925353&trid=0000bb132e7f49e042f6945c5622a9d57923T&mid=1714833199&platform=html5&og=cos&upsig=332e27dfcb393e37e433514db25e1f70&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=30814&bvc=vod&nettype=0&bw=343482&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第13集 除妖乌鸡国,https://cn-hbwh-cm-01-11.bilivideo.com/upgcxcode/36/88/1063988836/1063988836-1-208.mp4?e=ig8euxZM2rNcNbNanWdVhwdlhbuHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558234&gen=playurlv2&os=bcache&oi=999925353&trid=00009a4e206c98fd4f4f9d0a3559ef221556T&mid=1714833199&platform=html5&og=cos&upsig=daab9ae5da98d436abb7e77aab063d25&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=10207&bvc=vod&nettype=0&bw=279170&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第14集 大战红孩儿,https://cn-hbsjz-cm-02-11.bilivideo.com/upgcxcode/89/54/1062305489/1062305489-1-208.mp4?e=ig8euxZM2rNcNbhMhWdVhwdlhzK1hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558235&gen=playurlv2&os=bcache&oi=999925353&trid=000066a0e0bd19084b308058be11fca7133dT&mid=1714833199&platform=html5&og=hw&upsig=026b8903a66d7001eaa94829a91c57f2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=40012&bvc=vod&nettype=0&bw=341332&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第15集 斗法降三怪,https://cn-hnzz-cm-01-16.bilivideo.com/upgcxcode/17/98/1062379817/1062379817-1-208.mp4?e=ig8euxZM2rNcNbh1nwdVhwdlhzR3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558235&gen=playurlv2&os=bcache&oi=999925353&trid=0000ab210963a63e46dfa00d90927890cfb2T&mid=1714833199&platform=html5&og=hw&upsig=725882e28c2ead019a1366d7248f629b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=40051&bvc=vod&nettype=0&bw=318495&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第16集 趣经女儿国,https://cn-hbwh-cm-01-05.bilivideo.com/upgcxcode/72/35/1070803572/1070803572-1-208.mp4?e=ig8euxZM2rNcNbhMhWdVhwdlhzK1hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558236&gen=playurlv2&os=bcache&oi=999925353&trid=00007337d6dcbde34ff98371d3365680064eT&mid=1714833199&platform=html5&og=cos&upsig=c8bd8f4034d6b811ed1891bf0a6de3ba&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=10201&bvc=vod&nettype=0&bw=341399&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第17集 三调芭蕉扇,https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/41/12/832631241/832631241-1-208.mp4?e=ig8euxZM2rNcNbhB7zdVhwdlhzUahwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735559035&gen=playurlv2&os=cosbv&oi=999925353&trid=3dff536ff7ef47178729b527f68e1b4cT&mid=1714833199&platform=html5&og=cos&upsig=cdd3167d7e48fdd0bc346bce2aa6cc66&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=357457&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第18集 扫塔辨奇冤,https://cn-sdjn-cm-02-07.bilivideo.com/upgcxcode/32/96/1064469632/1064469632-1-208.mp4?e=ig8euxZM2rNcNbNH7wdVhwdlhbeMhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558237&gen=playurlv2&os=bcache&oi=999925353&trid=0000c7d9a157c1f64e68b3b4913b6a74d7acT&mid=1714833199&platform=html5&og=cos&upsig=cfece9baac25549797899e326edc1ec0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=6617&bvc=vod&nettype=0&bw=294684&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第19集 误入小雷音,https://cn-hbsjz-cm-02-09.bilivideo.com/upgcxcode/30/10/1063841030/1063841030-1-208.mp4?e=ig8euxZM2rNcNbhVhzdVhwdlhzdzhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558237&gen=playurlv2&os=bcache&oi=999925353&trid=000052862cbd4b834dbabf054189c5786293T&mid=1714833199&platform=html5&og=hw&upsig=b5308bc171a19a6e279f78ef63aebde2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=11152&bvc=vod&nettype=0&bw=303044&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第20集 孙猴巧行医,https://cn-zjhz-cm-01-17.bilivideo.com/upgcxcode/27/62/1065326227/1065326227-1-208.mp4?e=ig8euxZM2rNcNbhMhzdVhwdlhzKzhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558238&gen=playurlv2&os=bcache&oi=999925353&trid=0000d8e012ddf35d445aa438bcda0cef242bT&mid=1714833199&platform=html5&og=hw&upsig=2132f30e3e77eeb911b11c3bd56a6e56&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=5162&bvc=vod&nettype=0&bw=343482&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第21集 错坠盘丝洞,https://cn-zjhz-cm-01-28.bilivideo.com/upgcxcode/23/00/1073110023/1073110023-1-208.mp4?e=ig8euxZM2rNcNbhMhWdVhwdlhzK1hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558239&gen=playurlv2&os=bcache&oi=999925353&trid=0000c913aaf410304e31bf2e7e0320eaef32T&mid=1714833199&platform=html5&og=cos&upsig=f5826454916098f18a183a4b12185f89&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=13128&bvc=vod&nettype=0&bw=341059&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第22集 四探无底洞,https://upos-sz-mirror08c.bilivideo.com/upgcxcode/63/15/946671563/946671563-1-208.mp4?e=ig8euxZM2rNcNbhM7wdVhwdlhzKMhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735559109&gen=playurlv2&os=08cbv&oi=999925353&trid=1ae064bc74fd4c7b8f8e8e6b3cabdcffT&mid=1714833199&platform=html5&og=hw&upsig=55429f32ee44f7ae415ee364d3618dd6&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=344045&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第23集 传艺玉华洲,https://cn-hbwh-cm-01-13.bilivideo.com/upgcxcode/83/57/1064475783/1064475783-1-208.mp4?e=ig8euxZM2rNcNbh17bdVhwdlhzRjhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558240&gen=playurlv2&os=bcache&oi=999925353&trid=0000b87b94a5f52540988396bf6ed44662a9T&mid=1714833199&platform=html5&og=cos&upsig=367efdec86f8671d2cfbd5da7c75b73f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=10209&bvc=vod&nettype=0&bw=316724&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第24集 天竺收玉兔,https://cn-lnsy-cm-01-04.bilivideo.com/upgcxcode/68/95/946859568/946859568-1-208.mp4?e=ig8euxZM2rNcNbhM7wdVhwdlhzKMhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735559110&gen=playurlv2&os=bcache&oi=999925353&trid=000037ed485ffa6d4378bbf4ba32902b9c13T&mid=1714833199&platform=html5&og=cos&upsig=2bc67d9a245b6cf5e742bab0decc4167&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=3245&bvc=vod&nettype=0&bw=344296&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第25集 波生极乐天,https://upos-sz-mirrorbd.bilivideo.com/upgcxcode/78/89/742708978/742708978-1-192.mp4?e=ig8euxZM2rNcNbNjhwdVhwdlhbTVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735559748&gen=playurlv2&os=bdbv&oi=999925353&trid=525f0f25dda542638622f95b0eb3d92cT&mid=1714833199&platform=html5&og=hw&upsig=76254652b3f835062691e492c7839c79&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=260618&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第01集 险渡通天河,https://upos-sz-mirror08c.bilivideo.com/upgcxcode/41/03/493320341/493320341-1-208.mp4?e=ig8euxZM2rNcNbhV7zdVhwdlhzdahwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558240&gen=playurlv2&os=08cbv&oi=999925353&trid=714c2863706745ff8baa44c77a7b904dT&mid=1714833199&platform=html5&og=hw&upsig=cb0bc1dd151c35a5c69d3a2f27ac7006&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=307887&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第02集 师徒生二心,https://upos-sz-mirrorali.bilivideo.com/upgcxcode/48/03/493320348/493320348-1-208.mp4?e=ig8euxZM2rNcNbhz7WdVhwdlhzhBhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558241&gen=playurlv2&os=alibv&oi=999925353&trid=0c6c505b0edc4b56934baa0450c5ef95T&mid=1714833199&platform=html5&og=cos&upsig=ea982521d70ffd102f8a8cd150075704&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=335399&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第03集 真假美猴王,https://cn-gddg-cm-01-05.bilivideo.com/upgcxcode/51/03/493320351/493320351-1-208.mp4?e=ig8euxZM2rNcNbhBhbdVhwdlhzUghwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558242&gen=playurlv2&os=bcache&oi=999925353&trid=0000153883c824d840c7833326f3b579db1eT&mid=1714833199&platform=html5&og=hw&upsig=355d5372c26bc417bfc6ff64df945e09&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=2125&bvc=vod&nettype=0&bw=352955&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第04集 受阻狮驼岭,https://cn-hncs-cm-03-11.bilivideo.com/upgcxcode/86/85/1074808586/1074808586-1-208.mp4?e=ig8euxZM2rNcNbhz7WdVhwdlhzhBhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558243&gen=playurlv2&os=bcache&oi=999925353&trid=00001629f0c134af47b9b9c75977ff1a43a1T&mid=1714833199&platform=html5&og=hw&upsig=36cd454b6d0c8b01f7f99dd33592f3a8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=65509&bvc=vod&nettype=0&bw=335595&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第05集 遇仙孔雀台,https://upos-sz-mirrorali.bilivideo.com/upgcxcode/75/04/260280475/260280475-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735559845&gen=playurlv2&os=alibv&oi=999925353&trid=ea69bb405ad24a569e7c451642064f7fT&mid=1714833199&platform=html5&og=cos&upsig=269b8f8899c946580db79782e7261fe9&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=46157&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第06集 如来收大鹏,https://cn-hbwh-cm-01-01.bilivideo.com/upgcxcode/75/03/493320375/493320375-1-208.mp4?e=ig8euxZM2rNcNbhM7bdVhwdlhzKjhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558244&gen=playurlv2&os=bcache&oi=999925353&trid=00009303f89d7cd14aafb2210849dfcd990dT&mid=1714833199&platform=html5&og=hw&upsig=21f222b77d714625efe07fe630d1801c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=10197&bvc=vod&nettype=0&bw=346364&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第07集 情断黑水河,https://upos-sz-mirrorali.bilivideo.com/upgcxcode/11/85/947778511/947778511-1-208.mp4?e=ig8euxZM2rNcNbhzhwdVhwdlhzhVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735559112&gen=playurlv2&os=alibv&oi=999925353&trid=94f11244489a4ac6bd3d6c5ff3c21af6T&mid=1714833199&platform=html5&og=cos&upsig=5a91c1eae15f9e0a3a824330bdd73c76&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=330451&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第08集 收伏青牛怪,https://upos-sz-mirror08c.bilivideo.com/upgcxcode/36/11/1076801136/1076801136-1-208.mp4?e=ig8euxZM2rNcNbh1nWdVhwdlhzRHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558245&gen=playurlv2&os=08cbv&oi=999925353&trid=f8f5db683be34118b30e5cc85108c201T&mid=1714833199&platform=html5&og=hw&upsig=ebe5737a78597f3e2d8eeb3a3142b54e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=319594&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第09集 祈雨凤仙郡,https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/21/50/1081035021/1081035021-1-208.mp4?e=ig8euxZM2rNcNbN3nWdVhwdlhb4HhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558245&gen=playurlv2&os=cosbv&oi=999925353&trid=e253b1deae04460bb94b7a2e9dd44d19T&mid=1714833199&platform=html5&og=cos&upsig=f2bfcbafcf955a2e45eecef8ae8d35f8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=289220&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第10集 大闹披香殿,https://upos-sz-mirror08c.bilivideo.com/upgcxcode/47/08/493430847/493430847-1-208.mp4?e=ig8euxZM2rNcNbh1hwdVhwdlhzRVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558246&gen=playurlv2&os=08cbv&oi=999925353&trid=da23d5b22ff645c0a9d0c08782e2c5b6T&mid=1714833199&platform=html5&og=hw&upsig=cc709e3cb375b018bf4f4211744bb472&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=310952&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第11集 绝域变通途,https://cn-hbsjz-cm-02-03.bilivideo.com/upgcxcode/30/64/260846430/260846430-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735559850&gen=playurlv2&os=bcache&oi=999925353&trid=00001e5fc53b9f464c869c1eea702476d9f3T&mid=1714833199&platform=html5&og=cos&upsig=c04e18d292eea4d9148170aa15604572&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=11146&bvc=vod&nettype=0&bw=46187&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第12集 泪洒隐雾山,https://upos-sz-mirrorali.bilivideo.com/upgcxcode/54/08/493430854/493430854-1-208.mp4?e=ig8euxZM2rNcNbhBhbdVhwdlhzUghwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558247&gen=playurlv2&os=alibv&oi=999925353&trid=d049a8940b6a49c1a571516ebd1c9a86T&mid=1714833199&platform=html5&og=cos&upsig=49a9e40d311506dffd442dde4b4f71ba&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=352922&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第13集 救难小儿城,https://cn-hbsjz-cm-02-07.bilivideo.com/upgcxcode/47/98/1077039847/1077039847-1-208.mp4?e=ig8euxZM2rNcNbNahbdVhwdlhbughwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558247&gen=playurlv2&os=bcache&oi=999925353&trid=00002c5711293007420eb87317dafe681fb8T&mid=1714833199&platform=html5&og=cos&upsig=1d016a681e77aa78e37a4f278fb32e4f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=11150&bvc=vod&nettype=0&bw=272346&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第14集 缉盗菩提域,https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/02/04/1077040402/1077040402-1-208.mp4?e=ig8euxZM2rNcNbhVhWdVhwdlhzd1hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558248&gen=playurlv2&os=cosbv&oi=999925353&trid=ead1c9201af74473a61a19e5aa629ac7T&mid=1714833199&platform=html5&og=cos&upsig=3386fdd26e586b8d14c9d4fed351ee16&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=301581&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第15集 还魂寇善人,https://upos-sz-mirror08c.bilivideo.com/upgcxcode/21/47/493444721/493444721-1-208.mp4?e=ig8euxZM2rNcNbhVnWdVhwdlhzdHhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558249&gen=playurlv2&os=08cbv&oi=999925353&trid=ae2488ae109e4ea7bfa847bea951c0daT&mid=1714833199&platform=html5&og=hw&upsig=db7ad3fd2c14aa423b049ab947704cd0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=309688&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+第16集 观灯金平府,https://cn-hbwh-cm-01-05.bilivideo.com/upgcxcode/38/49/493534938/493534938-1-208.mp4?e=ig8euxZM2rNcNbhBhbdVhwdlhzUghwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1735558250&gen=playurlv2&os=bcache&oi=999925353&trid=0000f6fca52f5d9e452f999837f9ded26185T&mid=1714833199&platform=html5&og=cos&upsig=033bc6ed6fe198fb1dc0e98f1e67c12d&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&cdnid=10201&bvc=vod&nettype=0&bw=352809&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
